@@ -10,5 +10,5 @@ For more information, please visit our publication on the work [here](https://do
 ### Instructions
 
 * The CAP sleep dataset can be downloaded from [here](https://physionet.org/content/capslpdb/1.0.0/). Download the edf file and txt file of 512 Hz sampling frequency for required disorders.
-* Download the Data_preparation_from_annotations.m and edfread.m in the same folder. Run Data_preparation_from_annotations.m using MATLAB or Octave software. Give proper file name in Data_preparation_from_annotations.m code. 
+* Download the [Data_preparation_from_annotations.m](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/Data_preparation_from_annotations.m) and [edfread.m](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/edfread.m) in the same folder. Run Data_preparation_from_annotations.m using MATLAB or Octave software. Give proper file name in Data_preparation_from_annotations.m code. 
 * 
