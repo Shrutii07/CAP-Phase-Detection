@@ -10,5 +10,11 @@ For more information, please visit our publication on the work [here](https://do
 ### Instructions
 
 * The CAP sleep dataset can be downloaded from [here](https://physionet.org/content/capslpdb/1.0.0/). Download the edf file and txt file of 512 Hz sampling frequency for required disorders.
-* Download the [Data_preparation_from_annotations.m](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/Data_preparation_from_annotations.m) and [edfread.m](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/edfread.m) in the same folder. Run Data_preparation_from_annotations.m using [MATLAB](https://in.mathworks.com/products/matlab.html) or [Octave](https://www.gnu.org/software/octave/download) software. Give proper file name in Data_preparation_from_annotations.m code. 
-* 
+* Open the folder [Dataset Preparation](https://github.com/Shrutii07/CAP-Phase-Detection/tree/main/Dataset%20Preparation) of this repository and download the [Data_preparation_from_annotations.m](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/Data_preparation_from_annotations.m) and [edfread.m](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/edfread.m) in the same folder in which edf and txt files are downloaded. Run Data_preparation_from_annotations.m using [MATLAB](https://in.mathworks.com/products/matlab.html) or [Octave](https://www.gnu.org/software/octave/download) software. Give proper file name in Data_preparation_from_annotations.m code. 
+* Upload the generated files on drive to keep your data on cloud
+* Run the colab file [Dataset_preparation_CAP_phases.ipynb](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/Dataset_preparation_CAP_phases.ipynb) from the folder Dataset Preparation. Give proper path to previously uploaded files and folder in which dataset is to be stored.
+* You can directly download this balanced dataset for healthy and disordered participants from [here](https://drive.google.com/drive/folders/1-DdLogc2Z7ck7KUrD6pmLUJdJ0QiPrqq?usp=sharing).
+* Run the colab file [CAP_phase_detection.ipynb](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/CAP_phase_detection.ipynb) to train models and observe results. Give proper path to load dataset and save models.
+* You can observe the results of our proposed models by downloading our trained models, test data and history from [here](https://drive.google.com/drive/folders/1yx1fst6jubcbUUhA-ll8l-zY3bDMMVrO?usp=sharing).
+
+If you find this work useful, please cite our [paper](https://doi.org/10.1016/j.compbiomed.2022.105594).
