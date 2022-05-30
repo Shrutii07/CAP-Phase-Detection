@@ -17,4 +17,4 @@ For more information, please visit our publication on the work [here](https://do
 * Run the colab file [CAP_phase_detection.ipynb](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/CAP_phase_detection.ipynb) to train models and observe results. Give proper path to load dataset and save models.
 * You can observe the results of our proposed models by downloading our trained models, test data and history from [here](https://drive.google.com/drive/folders/1yx1fst6jubcbUUhA-ll8l-zY3bDMMVrO?usp=sharing).
 
-If you find this work useful, please cite our [paper](https://doi.org/10.1016/j.compbiomed.2022.105594).
+If you find this work useful, please cite our paper [Automated classification of cyclic alternating pattern sleep phases in healthy and sleep-disordered subjects using convolutional neural network](https://doi.org/10.1016/j.compbiomed.2022.105594).
