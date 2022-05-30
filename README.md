@@ -17,4 +17,19 @@ For more information, please visit our publication on the work [here](https://do
 * Run the colab file [CAP_phase_detection.ipynb](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/CAP_phase_detection.ipynb) to train models and observe results. Give proper path to load dataset and save models.
 * You can observe the results of our proposed models by downloading our trained models, test data and history from [here](https://drive.google.com/drive/folders/1yx1fst6jubcbUUhA-ll8l-zY3bDMMVrO?usp=sharing).
 
-If you find this work useful, please cite our paper [Automated classification of cyclic alternating pattern sleep phases in healthy and sleep-disordered subjects using convolutional neural network](https://doi.org/10.1016/j.compbiomed.2022.105594).
+This repo contains implementation of our[Automated classification of cyclic alternating pattern sleep phases in healthy and sleep-disordered subjects using convolutional neural network](https://doi.org/10.1016/j.compbiomed.2022.105594). If you find this code useful in your research, please consider citing:
+
+    @article{MURARKA2022105594,
+      title = {Automated classification of cyclic alternating pattern sleep phases in healthy and sleep-disordered subjects using convolutional neural network},
+      journal = {Computers in Biology and Medicine},
+      pages = {105594},
+      year = {2022},
+      issn = {0010-4825},
+      doi = {https://doi.org/10.1016/j.compbiomed.2022.105594},
+      url = {https://www.sciencedirect.com/science/article/pii/S0010482522003869},
+      author = {Shruti Murarka and Aditya Wadichar and Ankit Bhurane and Manish Sharma and U. Rajendra Acharya}
+      }
+      
+      
+      Shruti Murarka, Aditya Wadichar, Ankit Bhurane, Manish Sharma, U. Rajendra Acharya, Automated classification of cyclic alternating pattern sleep phases in healthy and sleep-disordered subjects using convolutional neural network, Computers in Biology and Medicine, 2022, 105594, ISSN 0010-4825, https://doi.org/10.1016/j.compbiomed.2022.105594.
+
