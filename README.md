@@ -14,6 +14,8 @@ For more information, please visit our publication on the work [here](https://do
 * Upload the generated files on drive to keep your data on cloud
 * Run the colab file [Dataset_preparation_CAP_phases.ipynb](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/Dataset%20Preparation/Dataset_preparation_CAP_phases.ipynb) from the folder Dataset Preparation. Give proper path to previously uploaded files and folder in which dataset is to be stored.
 * You can directly download this balanced dataset for healthy and disordered participants from [here](https://www.kaggle.com/datasets/shrutimurarka/cap-sleep-unbalanced-dataset).
+
+    **_Kindly consider upvoting on [Kaggle](https://www.kaggle.com/datasets/shrutimurarka/cap-sleep-unbalanced-dataset) as well_**.
 * Run the colab file [CAP_phase_detection.ipynb](https://github.com/Shrutii07/CAP-Phase-Detection/blob/main/CAP_phase_detection.ipynb) to train models and observe results. Give proper path to load dataset and save models.
 * You can observe the results of our proposed models by downloading our trained models, test data and history from [here](https://drive.google.com/drive/folders/1yx1fst6jubcbUUhA-ll8l-zY3bDMMVrO?usp=sharing).
 
